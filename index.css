@@ -1,0 +1,98 @@
+.contents {
+    height:600px;
+    position: absolute;
+    top: 50px;
+    left: 30%;
+    width: 500px;
+    background: rgb(243, 243, 239);
+    border-radius: 15px;
+    margin:0 auto;
+}
+.first {
+    margin: 50px 0 0 60px;
+}
+.first p span {
+    color: #2e58ff;
+    cursor: pointer;
+}
+.first p {
+    font-size: 14px;
+    color: black;
+}
+label{
+    margin-left: 60px;
+    color: black;
+}
+input{
+    width: 280px;
+    height: 40px;
+    border-radius: 8px;
+    border:none;
+    font-size: 18px;
+    padding-left: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: black;
+    
+}
+#yan{
+    width: 140px;
+}
+#btn{
+    height: 40px;
+    width: 120px;
+    margin-left: 20px;
+    background-color: #fff;
+    border: none;
+}
+#sub{
+    height: 45px;
+    width: 360px;
+    margin-left: 60px;
+    background-color: #2090ec;
+    opacity: 0.6;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    margin-top: 40px;
+}
+#check{
+    margin-top: 20px;
+    width: 12px;
+    height: 12px;
+    margin-left: 70px;
+}
+#accept{
+    font-size: 12px;
+    color: gray;
+}
+#user-valid{
+    height: 15px;
+    color: red;
+    margin-left: 100px;
+    font-size: 12px;
+}
+#number-valid{
+    height: 15px;
+    color: red;
+    margin-left: 100px;
+    font-size: 12px;
+}
+#mima-valid{
+    height: 15px;
+    color: red;
+    margin-left: 100px;
+    font-size: 12px;
+}
+#yan-valid{
+    height: 15px;
+    color: red;
+    margin-left: 100px;
+    font-size: 12px;
+}
+#a{
+    color: #2e58fe;
+}
+
+
+
